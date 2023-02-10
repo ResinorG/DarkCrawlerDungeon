@@ -1,3 +1,3 @@
 <Version: 1.01>
- /data/Map002.json https://raw.githubusercontent.com/ResinorG/DarkDungeon/main/Map002.json
- <End of Version>
+/data/Map002.json https://raw.githubusercontent.com/ResinorG/DarkDungeon/main/Map002.json
+<End of Version>
